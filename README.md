@@ -6,7 +6,7 @@ Tengo 14 años (camino a los 15 el 11 de junio) y me apasiona la arquitectura de
 ---
 
 ## 🚀 Sobre mí
-- 🎓 **Edad:** 14 años.
+- 🎓 **Edad:** 15 años.
 - 💻 **Enfoque:** Análisis de vulnerabilidades, ciencia de datos aplicada a seguridad y desarrollo seguro.
 - 🎯 **Objetivo 2026:** Crear mis propios laboratorios de hacking y apps web seguras.
 
