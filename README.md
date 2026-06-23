@@ -1,7 +1,7 @@
-# 👋 ¡Hola! Soy Anderson (@andersonxd0909)
+# 👋 ¡Hola! Soy Anderson (@_andxr.son_1106)
 
 ### 🛡️ Entusiasta de la Ciberseguridad & Desarrollador Multilenguaje
-Tengo 14 años (camino a los 15 el 11 de junio) y me apasiona la arquitectura de software y el hacking ético. Mi objetivo es dominar la seguridad defensiva y el desarrollo de sistemas complejos.
+Tengo 15 años  y me apasiona la arquitectura de software y el hacking ético. Mi objetivo es dominar la seguridad defensiva y el desarrollo de sistemas complejos.
 
 ---
 
