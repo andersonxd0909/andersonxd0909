@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/dersonxd0909?label=Sígueme&style=social)](https://github.com/dersonxd0909)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_andxr.son_1106)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil) <!-- Cambia por tu perfil -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/anderson-carbajal-yataco-ba7940377/)) <!-- Cambia por tu perfil -->
 
 ---
 
@@ -67,7 +67,7 @@ Tengo **15 años** y me apasiona la arquitectura de software y el hacking ético
 ### 🌐 Conéctate conmigo
 
 - 📸 Instagram: [@_andxr.son_1106](https://instagram.com/_andxr.son_1106)  
-- 💼 LinkedIn: [Anderson (enlace)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/anderson-carbajal-yataco-ba7940377/)) 
+- 💼 LinkedIn: [Anderson (enlace)](https://www.linkedin.com/in/anderson-carbajal-yataco-ba7940377/)
 - 📧 Correo: [tuemail@ejemplo.com](mailto:ander.dev.back@gmail.com) 
 
 ---
