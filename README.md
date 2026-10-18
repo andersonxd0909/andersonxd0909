@@ -68,7 +68,7 @@ Tengo **15 años** y me apasiona la arquitectura de software y el hacking ético
 
 - 📸 Instagram: [@_andxr.son_1106](https://instagram.com/_andxr.son_1106)  
 - 💼 LinkedIn: [Anderson (enlace)](https://www.linkedin.com/in/anderson-carbajal-yataco-ba7940377/)
-- 📧 Correo: [tuemail@ejemplo.com](mailto:ander.dev.back@gmail.com) 
+- 📧 Correo: [ander.dev.back@gmail.com](mailto:ander.dev.back@gmail.com) 
 
 ---
 
